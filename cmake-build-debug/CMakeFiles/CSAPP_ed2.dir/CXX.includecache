@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/huyiqing/ClionProjects/CSAPP_ed2/2-57.cpp
+iostream
+-
+
+/Users/huyiqing/ClionProjects/CSAPP_ed2/2-58.cpp
+iostream
+-
+
+/Users/huyiqing/ClionProjects/CSAPP_ed2/2-67.cpp
+iostream
+-
+

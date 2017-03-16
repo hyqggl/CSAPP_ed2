@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeWorkspace" PROJECT_DIR="$USER_HOME$/ClionProjects/CSAPP_hw" />
+  <component name="CidrRootsConfiguration">
+    <excludeRoots>
+      <file path="$USER_HOME$/ClionProjects/CSAPP_ed2/cmake-build-debug/CMakeFiles" />
+      <file path="$USER_HOME$/ClionProjects/CSAPP_hw/cmake-build-debug/CMakeFiles" />
+    </excludeRoots>
+  </component>
+</project>
